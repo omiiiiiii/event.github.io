@@ -1,8 +1,8 @@
 .container{
-    min-height: 40vh;
+    min-height: 85vh;
     display: flex;
     flex-direction: column;
-    height: 40vh;
+    height: 85vh;
     margin-top: 20px;
 
 }

@@ -13,11 +13,11 @@
     border-radius: 10px;
 }
 .container{
-    min-height: 50vh;
+    min-height: 85vh;
     justify-content: center;
     display: flex;
     flex-direction: column;
-    height: 50vh;
+    height: 85vh;
     opacity: 0.9;
     background-image: url("/static/img/AdminSignup.jpg");
     background-repeat: no-repeat;

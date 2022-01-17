@@ -12,11 +12,11 @@
     border-radius: 10px;
 }
 .container{
-    min-height: 40vh;
+    min-height: 85vh;
     justify-content: center;
     display: flex;
     flex-direction: column;
-    height: 40vh;
+    height: 85vh;
     background-image: url("/static/img/logback.jpg");
     opacity: 0.8;
     background-repeat: no-repeat;

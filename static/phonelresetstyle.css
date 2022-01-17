@@ -13,11 +13,11 @@
 }
 
 .container{
-    min-height: 40vh;
+    min-height: 85vh;
     justify-content: center;
     display: flex;
     background-image: url("/static/img/back.jpg");
     flex-direction: column;
-    height: 40vh;
+    height: 85vh;
     background-size: initial;
 }
